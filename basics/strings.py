@@ -1,7 +1,11 @@
-person_info = {
-  "name": "jamyang ngawang dorji",
-  "age": "22",
-  "height": "1.00",
-  "is_student" : "True",
-}
-print(person_info)
+name = "jamyang Ngawang Dorji"
+print(name)
+
+greetings = "hello, " + name + "!"
+print(greetings) 
+
+greeting_f = f"HELLO, {name}!"
+print(greeting_f)
+
+name_length = len(name)
+print(name_length)
