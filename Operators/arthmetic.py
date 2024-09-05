@@ -1,4 +1,4 @@
-a, b = 15, 4 
+a, b = 5, 5 
 print(f"a = {a}, b = {b}")
 print(f"Addition: {a + b}")
 print(f"Subtraction: {a - b}")
